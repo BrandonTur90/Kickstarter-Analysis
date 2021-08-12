@@ -1,7 +1,7 @@
 # An Analysis of Kickstarter Campaigns
 A report on Kickstarter campgains, focused primarily of those in the theater category.
 ---
-![Outcomes_Based_on_Launch_Date](C:\Users\batur\Desktop\Class Work\Module 1\Crowdfunding Analysis\Outcomes Based on Launch Date.png)
+![Outcomes Based on Launch Date](C:\Users\batur\Desktop\Class Work\Module 1\Crowdfunding Analysis\Outcomes Based on Launch Date.png)
 ---
 ---
 ---
